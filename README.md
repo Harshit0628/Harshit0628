@@ -11,17 +11,28 @@
 <br/>
 
 <div align="center">
-  
-  🔭 I'm currently working on **StormLens** - A revolutionary weather prediction system
-  
-  🌱 I'm diving deep into **Advanced Deep Learning** and **Computer Vision**
-  
-  💡 I love to explore new technologies and leverage them to solve real-life problems
-  
-  🎯 Goals: Contribute more to Open Source projects and build impactful AI solutions
-  
-  ⚡ Fun fact: I can explain machine learning algorithms while doing a handstand!
-  
+  <table>
+    <tr>
+      <td>🔭 I'm currently working on</td>
+      <td><strong>StormLens</strong> - A revolutionary weather prediction system</td>
+    </tr>
+    <tr>
+      <td>🌱 I'm diving deep into</td>
+      <td><strong>Advanced Deep Learning</strong> and <strong>Computer Vision</strong></td>
+    </tr>
+    <tr>
+      <td>💡 I love to</td>
+      <td>Explore new technologies and leverage them to solve real-life problems</td>
+    </tr>
+    <tr>
+      <td>🎯 Goals</td>
+      <td>Contribute more to Open Source projects and build impactful AI solutions</td>
+    </tr>
+    <tr>
+      <td>⚡ Fun fact</td>
+      <td>I can explain machine learning algorithms while doing a handstand!</td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -92,26 +103,25 @@
 
 <br/>
 
-
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/Harshit0628/Library-Management-System">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/Harshit0628/Library-Management-System" style="flex: 0 1 calc(50% - 10px);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Library-Management-System&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Library Management System" />
   </a>
-  <a href="https://github.com/Harshit0628/WorldHappinessReport">
+  <a href="https://github.com/Harshit0628/WorldHappinessReport" style="flex: 0 1 calc(50% - 10px);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=WorldHappinessReport&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="World Happiness Report" />
   </a>
-  <a href="https://github.com/Harshit0628/Prediction-and-Analysis-of-Company-Financial-Data">
+  <a href="https://github.com/Harshit0628/Prediction-and-Analysis-of-Company-Financial-Data" style="flex: 0 1 calc(50% - 10px);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Prediction-and-Analysis-of-Company-Financial-Data&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Company Financial Data Analysis" />
   </a>
-  <a href="https://github.com/Harshit0628/Data-Driven-Drug-Discovery-Development-">
+  <a href="https://github.com/Harshit0628/Data-Driven-Drug-Discovery-Development-" style="flex: 0 1 calc(50% - 10px);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Data-Driven-Drug-Discovery-Development-&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Drug Discovery Development" />
   </a>
-  <a href="https://github.com/Harshit0628/Predictive-Maintenance-for-Aircraft-Engines-Aviation-Safety">
+  <a href="https://github.com/Harshit0628/Predictive-Maintenance-for-Aircraft-Engines-Aviation-Safety" style="flex: 0 1 calc(50% - 10px);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Predictive-Maintenance-for-Aircraft-Engines-Aviation-Safety&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Aircraft Engine Maintenance" />
   </a>
-  <a href="https://github.com/Harshit0628/LoanDefaulterPrediction">
+  <a href="https://github.com/Harshit0628/LoanDefaulterPrediction" style="flex: 0 1 calc(50% - 10px);">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=LoanDefaulterPrediction&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Loan Defaulter Prediction" />
   </a>
 </div>
