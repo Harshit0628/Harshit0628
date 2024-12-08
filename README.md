@@ -111,6 +111,31 @@
 
 <br/>
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/Harshit0628/Library-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Library-Management-System&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Library Management System" />
+  </a>
+  <a href="https://github.com/Harshit0628/WorldHappinessReport">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=WorldHappinessReport&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="World Happiness Report" />
+  </a>
+  <a href="https://github.com/Harshit0628/Prediction-and-Analysis-of-Company-Financial-Data">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Prediction-and-Analysis-of-Company-Financial-Data&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Company Financial Data Analysis" />
+  </a>
+  <a href="https://github.com/Harshit0628/Data-Driven-Drug-Discovery-Development-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Data-Driven-Drug-Discovery-Development-&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Drug Discovery Development" />
+  </a>
+  <a href="https://github.com/Harshit0628/Predictive-Maintenance-for-Aircraft-Engines-Aviation-Safety">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Predictive-Maintenance-for-Aircraft-Engines-Aviation-Safety&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Aircraft Engine Maintenance" />
+  </a>
+  <a href="https://github.com/Harshit0628/LoanDefaulterPrediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=LoanDefaulterPrediction&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Loan Defaulter Prediction" />
+  </a>
+</div>
+
+<br/>
+
 <h2 align="center">📫 Let's Connect</h2>
 
 <div align="center">
@@ -135,4 +160,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!;Feel+free+to+connect+with+me!;" />
 </div>
-
