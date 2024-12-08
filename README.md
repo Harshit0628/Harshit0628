@@ -28,10 +28,10 @@
   <a href="mailto:harshitindigibilli@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/indigibillli-harshit" target="_blank">
+  <a href="https://www.linkedin.com/in/indigibilli-harshit-394366251" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/harshitrocky1" target="_blank">
+  <a href="https://x.com/HarshitRocky1?t=UStp_i-0EczLgoKOZTTjKg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.harshit.life/" target="_blank">
@@ -66,9 +66,12 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit0628&show_icons=true&count_private=true&hide_border=true&title_color=FF6D00&icon_color=FF6D00&text_color=c9d1d9&bg_color=0d1117" alt="Harshit's GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit0628&theme=dark&hide_border=true&stroke=FF6D00&background=0D1117&ring=FF6D00&fire=FF6D00&currStreakLabel=FF6D00" alt="Harshit's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0628&layout=compact&hide_border=true&title_color=FF6D00&text_color=c9d1d9&bg_color=0d1117" alt="Harshit's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit0628&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Harshit's GitHub Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit0628&theme=dark&hide_border=true&stroke=00ffff&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="Harshit's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit0628&layout=compact&hide_border=true&title_color=00ffff&text_color=00ffff&bg_color=0d1117" alt="Harshit's Top Languages" />
 </div>
 
 <br/>
@@ -76,15 +79,15 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshit0628&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="Harshit's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshit0628&theme=matrix&no-frame=true&no-bg=false&margin-w=4" alt="Harshit's GitHub Trophies" />
 </div>
 
 <br/>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 Indigibilli Harshit's Contribution Galaxy</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit0628&bg_color=0D1117&color=FF6D00&line=FF6D00&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit0628&bg_color=0D1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Indigibilli Harshit's Contribution Galaxy" />
 </div>
 
 <br/>
@@ -93,51 +96,16 @@
 
 <div align="center">
   <a href="https://github.com/harshit0628/StormLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=StormLens&border_color=FF6D00&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF6D00" alt="StormLens" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=StormLens&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="StormLens" />
   </a>
   <a href="https://github.com/harshit0628/DataViz-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=DataViz-Dashboard&border_color=FF6D00&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF6D00" alt="DataViz-Dashboard" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=DataViz-Dashboard&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="DataViz-Dashboard" />
   </a>
   <a href="https://github.com/harshit0628/ML-Algorithms-from-Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=ML-Algorithms-from-Scratch&border_color=FF6D00&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF6D00" alt="ML-Algorithms-from-Scratch" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=ML-Algorithms-from-Scratch&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="ML-Algorithms-from-Scratch" />
   </a>
   <a href="https://github.com/harshit0628/AI-Powered-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=AI-Powered-Chatbot&border_color=FF6D00&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF6D00" alt="AI-Powered-Chatbot" />
-  </a>
-</div>
-
-<br/>
-
-<h2 align="center">📚 Latest Blog Posts</h2>
-
-<div align="center">
-  
-  <!-- BLOG-POST-LIST:START -->
-  - [Demystifying Deep Learning: A Beginner's Guide](https://www.harshit.life/blog/demystifying-deep-learning)
-  - [5 Essential Data Preprocessing Techniques for Machine Learning](https://www.harshit.life/blog/data-preprocessing-techniques)
-  - [The Future of AI: Trends to Watch in 2023](https://www.harshit.life/blog/ai-trends-2023)
-  - [Building Robust Machine Learning Pipelines: Best Practices](https://www.harshit.life/blog/ml-pipelines-best-practices)
-  - [Ethical Considerations in AI Development](https://www.harshit.life/blog/ethical-ai-development)
-  <!-- BLOG-POST-LIST:END -->
-  
-</div>
-
-<br/>
-
-<h2 align="center">🎓 Certifications</h2>
-
-<div align="center">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/XXXXXXXX">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" />
-    Machine Learning Specialization
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/XXXXXXXX">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" />
-    Deep Learning Specialization
-  </a>
-  <a href="https://credentials.edx.org/credentials/XXXXXXXX/">
-    <img src="https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edX&logoColor=white" alt="edX" />
-    Data Science Professional Certificate
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=AI-Powered-Chatbot&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="AI-Powered-Chatbot" />
   </a>
 </div>
 
@@ -150,10 +118,10 @@
   <a href="mailto:harshitindigibilli@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/indigibillli-harshit">
+  <a href="https://www.linkedin.com/in/indigibilli-harshit-394366251">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/harshitrocky1">
+  <a href="https://x.com/HarshitRocky1?t=UStp_i-0EczLgoKOZTTjKg&s=09">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
@@ -161,7 +129,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshit0628&style=flat-square&color=FF6D00" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=harshit0628&style=flat-square&color=00ffff" alt="Profile views" />
 </div>
 
 <div align="center">
