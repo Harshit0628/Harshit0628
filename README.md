@@ -92,24 +92,6 @@
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/harshit0628/StormLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=StormLens&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="StormLens" />
-  </a>
-  <a href="https://github.com/harshit0628/DataViz-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=DataViz-Dashboard&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="DataViz-Dashboard" />
-  </a>
-  <a href="https://github.com/harshit0628/ML-Algorithms-from-Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=ML-Algorithms-from-Scratch&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="ML-Algorithms-from-Scratch" />
-  </a>
-  <a href="https://github.com/harshit0628/AI-Powered-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit0628&repo=AI-Powered-Chatbot&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="AI-Powered-Chatbot" />
-  </a>
-</div>
-
-<br/>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
