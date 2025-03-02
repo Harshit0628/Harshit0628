@@ -143,8 +143,8 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Harshit0628/StormLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=StormLens&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="StormLens" />
+  <a href="https://github.com/Harshit0628/Human-Activity-Recognitions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=StormLens&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Human Activity Recognition" />
   </a>
   <a href="https://github.com/Harshit0628/Library-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshit0628&repo=Library-Management-System&border_color=00ffff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00ffff" alt="Library Management System" />
